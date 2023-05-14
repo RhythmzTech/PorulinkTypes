@@ -1,0 +1,28 @@
+{
+  "name": "porulinkTypes",
+  "version": "1.0.0",
+  "description": "An TypeBase for creating Plugins for PoruLink",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RhythmzTech/porulinkType.git"
+  },
+  "keywords": [
+    "volcano",
+    "sdk",
+    "plugins"
+  ],
+  "author": "PapiOphidian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RhythmzTech/porulinkType/issues"
+  },
+  "homepage": "https://github.com/RhythmzTech/porulinkType#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.18"
+  }
+}
