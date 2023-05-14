@@ -1,5 +1,5 @@
 {
-  "name": "porulinkTypes",
+  "name": "PorulinkTypes",
   "version": "1.0.0",
   "description": "An TypeBase for creating Plugins for PoruLink",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "sdk",
     "plugins"
   ],
-  "author": "PapiOphidian",
+  "author": "Drexy",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/RhythmzTech/porulinkType/issues"
